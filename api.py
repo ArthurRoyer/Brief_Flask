@@ -129,3 +129,5 @@ def add_user():
 # Lancement de l'application Flask
 if __name__ == '__main__':
     app.run(debug=True)
+
+# Test
