@@ -1,4 +1,7 @@
+# Enorme ca marche !
+
 from flask import Flask, request, redirect, url_for, render_template_string
+
 
 app = Flask(__name__)
 
